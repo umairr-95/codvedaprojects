@@ -1,5 +1,5 @@
-            📊 Power BI Stock Market Analysis Dashboard
-
+                
+                📊PowerBI Stock Market Analysis Dashboard
 👤 Project
 Project: Stock Market Analysis Dashboard
 Tool: Microsoft Power BI

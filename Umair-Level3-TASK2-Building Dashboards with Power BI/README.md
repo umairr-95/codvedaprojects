@@ -80,3 +80,6 @@ volume → Whole Number
 * Comprehensive examination of volatility.
 * Developing more sophisticated time-series analysis.
 * Incorporating comparisons at the corporate level.
+
+# Author
+Umair Akbar Mohammed 
